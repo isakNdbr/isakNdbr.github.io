@@ -22,5 +22,5 @@ After growing up in the midst of the dolomites I moved to Vienna to study astrop
 ⚙️ Skills
 
 - **Programming Languages:** Python, Julia 
-- **Programming Frameworks:** Pandas, Matplotlib, Plotly, Astropy. Galpy, Tensorflow, Scikit-Learn, ...
+- **Programming Frameworks:** Pandas, Matplotlib, Plotly, Astropy, Galpy, Tensorflow, Scikit-Learn, ...
 -  **Tools and Scripting:** Git, LaTeX, SQL, GlueViz, Topcat, Aladin
